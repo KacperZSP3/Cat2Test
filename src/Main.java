@@ -132,7 +132,7 @@ public class Main {
 
         LocalDate dateNew = LocalDate.of(2024, 9, 29);
 
-        System.out.println("Day of the week: " + dateNew.getDayOfWeek());
+        System.out.println("Days of the week: " + dateNew.getDayOfWeek());
         System.out.println("Is leap year: " + dateNew.isLeapYear());
 
     }
